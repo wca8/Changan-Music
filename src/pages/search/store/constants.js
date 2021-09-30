@@ -1,0 +1,7 @@
+
+export const CHANGE_SEARCH_SONG='search/CHANGE_SEARCH_SONG'
+export const CHANGE_SINGER_LIST='search/CHANGE_SINGER_LIST'
+export const CHANGE_ALBUM_LIST='search/CHANGE_ALBUM_LIST'
+export const CHANGE_VIDEO_LIST='search/CHANGE_VIDEO_LIST'
+export const CHANGE_USER_LIST='search/CHANGE_USER_LIST'
+
